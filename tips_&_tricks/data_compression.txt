@@ -1,0 +1,7 @@
+https://www.oracle.com/br/technical-resources/articles/database-performance/compression-tables-oracle-database.html
+
+https://www.oracle.com/technical-resources/articles/enterprise-manager/11g-compression.html
+
+https://www.oracle.com/technetwork/database/options/compression/advanced-compression-wp-12c-1896128.pdf
+
+https://blogs.oracle.com/dbstorage/when-to-use-the-various-types-of-oracle-data-compression
