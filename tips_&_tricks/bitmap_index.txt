@@ -1,0 +1,6 @@
+https://www.oracle.com/br/technical-resources/articles/sql/bitmap-tree-b.html
+
+https://www.oracle.com/technical-resources/articles/sharma-indexes.html
+
+
+https://www.oracletutorial.com/oracle-index/oracle-bitmap-index/
