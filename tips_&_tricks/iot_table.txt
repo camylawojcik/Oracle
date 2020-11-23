@@ -1,0 +1,5 @@
+https://oracle-base.com/articles/8i/index-organized-tables
+
+https://www.devmedia.com.br/artigo-da-sql-magazine-33-iot-index-organized-table-no-oracle/6681
+
+https://docs.oracle.com/cd/B28359_01/server.111/b28310/tables012.htm#ADMIN01506
